@@ -1,15 +1,13 @@
-    ### Hi there
-**Antonio** Uma pessoa fazendo projeto de escola
+### Opa
+**Antonio** Uma pessoa fazendo projeto de escola pro **Alura**
 
-- 👋 Hi, I’m @Idk209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Alguem que joga mais jogos gratis 
+- Fazendo maioria das liçoes na ultima hora
+- Projeto para a Alura
+- Jogando Pokemon Black 2 
 
-<!---
-Idk209/Idk209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Contas e Redes sociais
+antonioeduardo4925@gmail.com
+Twitter: NsouET - @EtNsou7992
+
+
